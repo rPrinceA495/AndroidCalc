@@ -308,7 +308,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
-                        android:text="7"
+                        android:text="6"
                         android:textColor="#f4f4f4"
                         android:textSize="30sp"
                         app:backgroundTint="#121212"/>
